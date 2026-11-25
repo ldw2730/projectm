@@ -18,7 +18,6 @@
 | 경로 | 내용 | 주로 쓰는 에이전트 |
 |---|---|---|
 | `docs/context.md` | **프로젝트 전체 맥락과 컨셉 (먼저 읽을 것).** 초안 기반이며 확정 아님 | 모두 |
-| `docs/drafts/` | 사용자가 준 기획서 원본 (참고용, 수정하지 않음) | 모두 |
 | `docs/ideas/INDEX.md` | 전체 아이디어 목록과 상태 | idea-curator |
 | `docs/ideas/<slug>.md` | 아이디어 하나의 상세 (`_template.md` 형식) | idea-curator, idea-critic |
 | `docs/decisions.md` | 결정 기록 (무엇을, 왜 정했는지) | 메인 |
